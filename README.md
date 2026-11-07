@@ -1,0 +1,3 @@
+In many colleges, students face difficulties in discovering campus activities, finding like-minded peers, connecting with other students, and staying updated about events and opportunities. Information is often scattered across different communication platforms, making student engagement and campus participation less convenient.
+
+UniVerse aims to provide a centralized digital platform where students can explore campus activities, discover events, connect with fellow students, and access campus-related information in one place. The platform focuses on improving student interaction, collaboration, and overall campus engagement through a simple and user-friendly interface.
